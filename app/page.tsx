@@ -1,5 +1,5 @@
 import Link from "next/link";
-import ProductCard from "@/app/components/ProductCard/ProductCard";
+import ProductCard from "@/components/ProductCard/ProductCard";
 import React from "react";
 
 export default function Home() {
